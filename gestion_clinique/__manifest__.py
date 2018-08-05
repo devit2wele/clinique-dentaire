@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Gestion Clinique',
+    'description': 'Gestion Clinique',
     'version': '1.0',
     'category': 'MEDECINE',
     'depends': [
